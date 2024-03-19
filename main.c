@@ -22,7 +22,7 @@ int main()
 {
     int attempt;
 
-    printf("\n\n\t\t\t*------------WELCOME TO CALCULATION PAGE------------*\n\n\t\t\t");
+    printf("\n\n\t\t\t*------------WELCOME TO MY PAGE------------*\n\n\t\t\t");
     sleep(3);
     system("cls");
 
